@@ -1,11 +1,11 @@
-#Bootcamp Challenge One: Code Refactoring for Horiseon Marketing Website
+Bootcamp Challenge One: Code Refactoring for Horiseon Marketing Website
 
-#User Story
+User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-#Acceptance Criteria
+Acceptance Criteria
 -Webpage meets accessibility standards
 -HTML elements follow a logical structure independent of styling and positioning
 -The image elements have accessible alt attributes
